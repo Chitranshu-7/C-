@@ -5,7 +5,7 @@ public class Least{
 
         int min=mark[0];
         int max =Integer.MIN_VALUE;
-        System.out.println(max);
+        // System.out.println(max);
         int indexa=0;
         for(int i=0; i<mark.length; i++){
             if(min>mark[i]){
